@@ -1,0 +1,9 @@
+{
+    "authors": [
+            "tom"
+    ],
+    "copyright": "Copyright 2025, mayon",
+    "description": "a dlang implements envsubst",
+    "license": "MIT",
+    "name": "d_envsubst"
+}
